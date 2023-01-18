@@ -1,0 +1,57 @@
+.dv{
+	text-align: center;
+	margin-top: 4vw;
+}
+.lah{
+	font-size:2.3vw;
+	font-family: lucida calligraphy;
+}
+.la{
+	font-size:1.7vw;
+}
+.las{
+	font-size:1.5vw;
+}
+span{
+	color:red;
+}
+.tab{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2vw;
+	background-color: cyan;	
+	border-radius: .5vw;
+}
+.tdp{
+	padding:2vw 1vw;
+}
+.btr{
+	cursor: pointer;
+	color:black;
+	background-color:black;
+	padding:.2vw 1.2vw;
+	border-radius: .4vw;
+	font-size:1.4vw;
+	border:none;
+}
+.dvv{
+	text-align: center;
+	margin-top:1vw;
+}
+.tb{
+	font-size:1.4vw;
+	width:100%;
+	border-radius: .4vw;
+}
+.ta{
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	background-color: #ecdaca;
+	width:50%;
+	font-size:1.7vw;
+}
+.lig{
+	 margin-right:.5vw;
+	 background-color:red;
+}
